@@ -4,6 +4,7 @@ import re
 # import random
 from collections import Counter
 
+
 def hhapi(vacancy):
     url = 'https://api.hh.ru/vacancies'
     params = {
