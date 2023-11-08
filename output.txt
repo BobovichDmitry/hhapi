@@ -1,6 +1,16 @@
-Вакансия: 1c
-Всего вакансий: 3392
-Средняя ЗП по вакансии: 100677
-EXCEL - 7.5%
-MS - 8.75%
-OFFICE - 7.5%
+Вакансия: Python Developer
+Всего вакансий: 703
+Средняя ЗП по вакансии: 203378
+API - 8.75%
+ASYNCIO - 7.5%
+DJANGO - 11.25%
+DOCKER - 6.25%
+FASTAPI - 13.750000000000002%
+FLASK - 10.0%
+LINUX - 6.25%
+ORM - 6.25%
+POSTGRESQL - 7.5%
+PYTHON - 60.0%
+SOLID - 6.25%
+SQL - 6.25%
+Python Developer
